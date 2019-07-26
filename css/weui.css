@@ -209,9 +209,12 @@
     z-index: 2;
 }
 
-.weui-cell__ft {
+.weui-cell_access .weui-cell__ft {
     padding-right: 16px;
     position: relative;
+}
+
+.weui-cell__ft {
     text-align: right;
     color: rgba(0, 0, 0, 0.5);
 }
