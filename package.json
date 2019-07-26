@@ -1,6 +1,6 @@
 {
   "name": "weui-css",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "小程序WeUI移植",
   "main": "index.js",
   "scripts": {
