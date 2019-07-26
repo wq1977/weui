@@ -80,7 +80,7 @@
     left: 16px;
 }
 
-.weui-cell__ft:after {
+.weui-cell_access .weui-cell__ft:after {
     content: " ";
     display: inline-block;
     height: 8px;
