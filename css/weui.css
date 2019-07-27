@@ -638,3 +638,11 @@ button.weui-vcode-btn {
     word-break: normal;
     word-wrap: break-word;
 }
+
+.weui-form-preview__bd {
+    padding: 16px;
+    font-size: .9em;
+    text-align: right;
+    color: rgba(0, 0, 0, 0.5);
+    line-height: 2;
+}
